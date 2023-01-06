@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3e94396-a919-41ea-aad0-a5c6caf4ad5d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cleancoders/java11/FileMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cleancoders/java11/StringMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cleancoders/java11/TimeUnitMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/cleancoders/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cleancoders/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

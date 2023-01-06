@@ -2,6 +2,7 @@ package com.cleancoders;
 
 import com.cleancoders.java11.FileMethods;
 import com.cleancoders.java11.StringMethods;
+import com.cleancoders.java11.TimeUnitMethods;
 
 import java.io.IOException;
 
@@ -10,5 +11,6 @@ public class Main {
         System.out.println("Java 11 features");
         StringMethods.checkNewStringMethods();
         FileMethods.checkNewFileMethods();
+        TimeUnitMethods.timeUnitMethods();
     }
 }
