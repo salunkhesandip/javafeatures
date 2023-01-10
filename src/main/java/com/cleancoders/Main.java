@@ -1,6 +1,7 @@
 package com.cleancoders;
 
 import com.cleancoders.java11.FileMethods;
+import com.cleancoders.java11.LambdaVarSyntax;
 import com.cleancoders.java11.StringMethods;
 import com.cleancoders.java11.TimeUnitMethods;
 
@@ -12,5 +13,7 @@ public class Main {
         StringMethods.checkNewStringMethods();
         FileMethods.checkNewFileMethods();
         TimeUnitMethods.timeUnitMethods();
+        LambdaVarSyntax.checkVarSyntax();
+
     }
 }
